@@ -71,9 +71,12 @@ cp -R SKILL.md templates/ ~/.claude/skills/handoff/
 handoff-skill/
 ├── SKILL.md          # skill 主指令
 ├── templates/        # 交接文档模板 / 项目规则模板
-├── releases/         # 各版本发布快照
-└── DESCRIPTION.md    # 对外描述
+├── DESCRIPTION.md    # 对外描述
+├── README.md
+└── LICENSE
 ```
+
+各历史版本（v1.0、v1.1…）通过右侧 **Releases** 下载。
 
 ## 版本
 
